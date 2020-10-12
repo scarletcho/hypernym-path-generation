@@ -1,0 +1,124 @@
+entity.n.01 physical_entity.n.01 object.n.01 land.n.04 island.n.01 taiwan.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 state.n.01 american_state.n.01 maryland.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 movement.n.04 political_movement.n.01 terrorist_organization.n.01 lashkar-e-omar.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 area.n.01 center.n.01 seat.n.05 capital.n.03 national_capital.n.01 copenhagen.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 national_capital.n.01 copenhagen.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 national_capital.n.01 copenhagen.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 south_american_country.n.01 ecuador.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 asian_country.n.01 japan.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 state.n.01 american_state.n.01 wisconsin.n.02
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 sacred_text.n.01 hagiographa.n.01
+entity.n.01 physical_entity.n.01 object.n.01 land.n.04 isthmus.n.01 central_america.n.01
+entity.n.01 physical_entity.n.01 object.n.01 geological_formation.n.01 natural_elevation.n.01 hill.n.01 capitol_hill.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 african_country.n.01 namibia.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 gettysburg.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 gettysburg.n.02
+entity.n.01 physical_entity.n.01 object.n.01 land.n.04 island.n.01 channel_island.n.01
+entity.n.01 physical_entity.n.01 object.n.01 geological_formation.n.01 range.n.04 transylvanian_alps.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 military_action.n.01 war.n.01 world_war.n.01 world_war_i.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 war.n.01 world_war.n.01 world_war_i.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 sacred_text.n.01 prophets.n.01
+entity.n.01 physical_entity.n.01 object.n.01 land.n.04 archipelago.n.01 volcano_islands.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 iron_age.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 abidjan.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 abidjan.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 movement.n.04 political_movement.n.01 terrorist_organization.n.01 hizb_ut-tahrir.n.01
+entity.n.01 physical_entity.n.01 object.n.01 geological_formation.n.01 range.n.04 nan_ling.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 point.n.02 topographic_point.n.01 peak.n.04 mountain_peak.n.01 nuptse.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 deep_south.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 movement.n.04 political_movement.n.01 terrorist_organization.n.01 islamic_great_eastern_raiders-front.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 body_of_water.n.01 bay.n.01 tampa_bay.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 cowpens.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 cowpens.n.01
+entity.n.01 physical_entity.n.01 object.n.01 geological_formation.n.01 range.n.04 sierra_nevada.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 newark.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 newark.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 corpus_christi.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 corpus_christi.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 european_country.n.01 andorra.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 lydia.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 battle_of_the_marne.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 battle_of_the_marne.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 body_of_water.n.01 sea.n.01 aegean.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 nagoya.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 nagoya.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 section.n.01 book.n.10 haggai.n.02
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 section.n.01 book.n.10 haggai.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 eugene.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 eugene.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 area.n.01 center.n.01 seat.n.05 capital.n.03 state_capital.n.01 lansing.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 state_capital.n.01 lansing.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 state_capital.n.01 lansing.n.01
+entity.n.01 physical_entity.n.01 object.n.01 geological_formation.n.01 range.n.04 australian_alps.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 leiden.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 leiden.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 asian_country.n.01 south_korea.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 african_country.n.01 guinea.n.03
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 louisville.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 louisville.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 almaty.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 almaty.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 mannheim.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 mannheim.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 canton.n.02 swiss_canton.n.01 ticino.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 mandalay.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 mandalay.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 body_of_water.n.01 stream.n.01 river.n.01 north_platte.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 tidewater.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 blantyre.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 blantyre.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 conflict.n.01 rebellion.n.02 indian_mutiny.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 conflict.n.01 rebellion.n.02 indian_mutiny.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 body_of_water.n.01 stream.n.01 river.n.01 congo.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 point.n.02 topographic_point.n.01 peak.n.04 mountain_peak.n.01 tirich_mir.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 qum.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 qum.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 apeldoorn.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 apeldoorn.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 prussia.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 hyderabad.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 hyderabad.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 chennai.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 chennai.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 body_of_water.n.01 stream.n.01 river.n.01 mississippi.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 taichung.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 taichung.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 rossbach.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 military_action.n.01 battle.n.01 pitched_battle.n.01 rossbach.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 country.n.02 african_country.n.01 gambia.n.01
+entity.n.01 abstraction.n.06 group.n.01 great_lakes.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 atlantic_city.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 atlantic_city.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 brasov.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 brasov.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 section.n.01 book.n.10 nehemiah.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 section.n.01 book.n.10 nehemiah.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 brandenburg.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 fertile_crescent.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 district.n.01 administrative_district.n.01 municipality.n.01 city.n.01 fort_worth.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 urban_area.n.01 municipality.n.01 city.n.01 fort_worth.n.01
+entity.n.01 physical_entity.n.01 object.n.01 land.n.04 archipelago.n.01 sunda_islands.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 occultist.n.01 sorcerer.n.01 cagliostro.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 occultist.n.01 sorcerer.n.01 cagliostro.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 christian.n.01 catholic.n.01 pope.n.01 gregory.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 religious_person.n.01 christian.n.01 catholic.n.01 pope.n.01 gregory.n.04
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 spiritual_leader.n.01 pope.n.01 gregory.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 leader.n.01 spiritual_leader.n.01 pope.n.01 gregory.n.04
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 christian.n.01 catholic.n.01 pope.n.01 urban_viii.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 religious_person.n.01 christian.n.01 catholic.n.01 pope.n.01 urban_viii.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 spiritual_leader.n.01 pope.n.01 urban_viii.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 leader.n.01 spiritual_leader.n.01 pope.n.01 urban_viii.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 professional.n.01 health_professional.n.01 medical_practitioner.n.01 doctor.n.01 down.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 adult.n.01 professional.n.01 health_professional.n.01 medical_practitioner.n.01 doctor.n.01 down.n.03
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 writer.n.01 orwell.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 communicator.n.01 writer.n.01 orwell.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 disputant.n.01 reformer.n.01 huss.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 disputant.n.01 reformer.n.01 huss.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 entertainer.n.01 performer.n.01 stripper.n.03 lee.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 entertainer.n.01 performer.n.01 stripper.n.03 lee.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 writer.n.01 dramatist.n.01 barrie.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 communicator.n.01 writer.n.01 dramatist.n.01 barrie.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 negotiator.n.01 representative.n.01 head_of_state.n.01 president_of_the_united_states.n.01 clinton.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 communicator.n.01 negotiator.n.01 representative.n.01 head_of_state.n.01 president_of_the_united_states.n.01 clinton.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 politician.n.02 statesman.n.01 warwick.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 leader.n.01 politician.n.02 statesman.n.01 warwick.n.01

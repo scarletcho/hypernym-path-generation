@@ -1,0 +1,206 @@
+learn.v.04 train.v.02
+change.v.01 increase.v.02 multiply.v.02 double.v.01
+act.v.01 interact.v.01 communicate.v.02 talk.v.02 whisper.v.01
+disappear.v.01 evanesce.v.01
+move.v.02 transfer.v.04
+change.v.02 mutate.v.01
+comfort.v.01 calm.v.01 pacify.v.01
+change.v.02 undergo.v.01 experience.v.01 feel.v.06
+make.v.03 produce.v.01 give_birth.v.01 farrow.v.01
+change.v.02 distill.v.02
+change.v.01 empty.v.01 hollow.v.02 dig.v.02
+gain.v.05 steal.v.03
+decide.v.01 choose.v.01 nominate.v.02 nominate.v.01
+act.v.01 interact.v.01 treat.v.01 pamper.v.01
+move.v.02 pull.v.01 drag.v.01 trail.v.05
+change.v.02 change_integrity.v.01 blend.v.03 admix.v.01
+move.v.03 move_involuntarily.v.01 twitch.v.01
+confine.v.05 imprison.v.01
+take.v.04 seize.v.01 clench.v.01
+change.v.01 empty.v.01 hollow.v.02 suck_in.v.03
+move.v.02 separate.v.02 cut.v.01 incise.v.01 groove.v.01
+offer.v.07 underbid.v.02
+begin.v.03 start.v.06 open.v.04
+transfer.v.05 give.v.03 supply.v.01 equip.v.01 shaft.v.01
+change.v.02 change_integrity.v.01 burn.v.07
+make.v.03 bring.v.03
+make.v.03 arouse.v.01 excite.v.01
+change.v.01 clean.v.01 disinfect.v.01 sterilize.v.01
+use.v.03 waste.v.01
+change.v.01 obscure.v.05 mystify.v.02
+change.v.01 affect.v.02 stimulate.v.04 invigorate.v.04
+make.v.03 create_from_raw_material.v.01 shape.v.02 sculpt.v.01
+make.v.03 create_by_mental_act.v.01 schematize.v.01
+move.v.02 transmit.v.04 bring.v.04 retrieve.v.03
+move.v.02 put.v.01 insert.v.02 intersperse.v.02
+utter.v.02 call.v.25
+control.v.01 manage.v.02 direct.v.04 operate.v.01 work.v.16
+act.v.01 interact.v.01 communicate.v.02 inform.v.01 understate.v.01
+change.v.01 convert.v.02 nitrify.v.01
+think.v.03 evaluate.v.02 measure.v.04 praise.v.01 advertise.v.02 bill.v.02
+touch.v.01 hit.v.03 smash.v.01
+exhaust.v.05 ejaculate.v.02
+kill.v.01 eliminate.v.03
+end.v.01 vanish.v.04
+act.v.01 interact.v.01 communicate.v.02 write.v.02 sign.v.01
+express.v.02 state.v.01 declare.v.01 affirm.v.02 attest.v.02
+guide.v.05 thread.v.02
+meet.v.10 replay.v.03
+trade.v.01 traffic.v.02
+change.v.01 better.v.02 fancify.v.01 groom.v.03 perfume.v.02
+change.v.02 change_magnitude.v.01 decrease.v.01 abate.v.02
+determine.v.03 value.v.01 overvalue.v.01
+change.v.02 change_integrity.v.01 thicken.v.03
+travel.v.01 swing.v.03
+displease.v.01 annoy.v.01 harass.v.01 torment.v.02 persecute.v.01
+move.v.02 change_hands.v.01 fall.v.21 fall.v.20
+end.v.01 vanish.v.02
+perceive.v.01 hallucinate.v.01
+change.v.02 gelatinize.v.02
+change.v.01 fill.v.01 lubricate.v.02
+change.v.01 decorate.v.01 fringe.v.01
+change.v.01 weaken.v.01 rarefy.v.03
+move.v.02 fluctuate.v.01
+charge.v.02 defame.v.01 libel.v.01
+transfer.v.05 give.v.03 pay.v.01 spend.v.02 invest.v.01 fund.v.04
+change.v.01 volatilize.v.01
+change.v.01 affect.v.02 stimulate.v.04 animate.v.04
+change.v.02 undergo.v.01 experience.v.03 horripilate.v.01
+close.v.01 seal.v.01 waterproof.v.01
+move.v.02 transport.v.01 freight.v.01
+change.v.02 change_integrity.v.01 disintegrate.v.01 powderize.v.02
+breathe.v.01 exhale.v.01 blow.v.01 puff.v.08
+remember.v.02 mind.v.06
+change.v.01 activate.v.02
+touch.v.01 hit.v.03 whack.v.01
+express.v.02 state.v.01 declare.v.01 promise.v.01 pledge.v.01 covenant.v.01
+join.v.01 unite.v.01 consociate.v.01
+change.v.01 mark.v.05 spot.v.06 mottle.v.02 stipple.v.04
+connect.v.01 attach.v.01 nail.v.01
+move.v.02 station.v.01 garrison.v.01
+change.v.01 increase.v.02 escalate.v.01
+travel.v.01 advance.v.01 ratchet.v.01
+think.v.03 evaluate.v.02 think.v.01 see.v.05 receive.v.13
+move.v.02 expel.v.01 expatriate.v.01
+be.v.03 extend.v.06
+act.v.01 interact.v.01 treat.v.01 mock.v.01 ridicule.v.01 satirize.v.01
+prevent.v.01 debar.v.02
+change.v.01 obscure.v.05
+change.v.01 calcify.v.04
+connect.v.01 attach.v.01 insert.v.01 cannulate.v.01
+account.v.02 charge.v.03 levy.v.01 tax.v.01
+change.v.01 sensitize.v.03
+change.v.02 change_posture.v.01 sink.v.01 sag.v.01 slump.v.01
+be.v.01 retard.v.02
+act.v.01 interact.v.01 communicate.v.02 talk.v.02 sing.v.02 solmizate.v.02
+exhaust.v.05 excrete.v.01 exude.v.01 gum.v.04
+move.v.02 transfer.v.02 convey.v.03 communicate.v.01 request.v.01 ask.v.02 request.v.02 invite.v.04 challenge.v.02 provoke.v.03 entice.v.01 hook.v.11
+change.v.02 decay.v.02 wilt.v.02
+control.v.01 dominate.v.03 subjugate.v.02
+avoid.v.01 get_off.v.05
+have.v.01 carry.v.21
+think.v.03 reason.v.03 categorize.v.01 classify.v.01 pigeonhole.v.02
+remove.v.01 pit.v.03
+enter.v.01 penetrate.v.01 pierce.v.05 sting.v.02
+move.v.03 vibrate.v.01 judder.v.01
+change.v.01 masculinize.v.01
+have.v.01 keep.v.03 save.v.02 conserve.v.03 retrench.v.01
+cause_to_be_perceived.v.01 sound.v.02 make_noise.v.01 roar.v.01 thunder.v.04
+move.v.02 put.v.01 arrange.v.01 pack.v.03
+transfer.v.05 give.v.03 pay.v.01 finance.v.01 back.v.05
+change.v.01 condense.v.07
+change.v.02 change_integrity.v.01 blend.v.03 accrete.v.01
+change.v.02 change_by_reversal.v.01 switch_over.v.01
+change.v.01 wet.v.01 squirt.v.02
+travel.v.01 walk.v.01 toddle.v.01
+change.v.02 have.v.11 meet.v.11
+make.v.03 create_by_mental_act.v.01 think_up.v.01 fabricate.v.02 trump_up.v.01
+be.v.01 look.v.02 glitter.v.01 spangle.v.01
+change.v.02 change_magnitude.v.01 increase.v.01 grow.v.02 stretch.v.04 give.v.33
+think.v.03 evaluate.v.02 reject.v.01 disown.v.02 apostatize.v.01
+move.v.02 transfer.v.02 convey.v.03 communicate.v.01 request.v.01 ask.v.02 request.v.02 propose.v.05
+end.v.01 adjourn.v.01
+change.v.01 obfuscate.v.01
+treat.v.03 operate_on.v.01 sterilize.v.02 vasectomize.v.01
+make.v.03 re-create.v.01 perform.v.03 conduct.v.06
+sound.v.06 clink.v.01
+express.v.02 state.v.01 note.v.01 comment.v.01 knock.v.06 admonish.v.03
+treat.v.03 operate_on.v.01 face-lift.v.01
+breathe.v.01 hiccup.v.01
+change.v.01 end.v.02 conclude.v.02
+move.v.02 translate.v.08
+treat.v.03 administer.v.04 inject.v.01
+travel.v.01 travel.v.05 ride.v.02 taxi.v.02
+leave.v.01 decamp.v.03
+move.v.04 relocate.v.01
+touch.v.01 hit.v.03 bean.v.01
+produce.v.02 reproduce.v.01 imitate.v.01 emulate.v.01
+make.v.03 generate.v.01 develop.v.13
+sound.v.06 play.v.07 beat.v.19
+give.v.08 grant.v.07
+make.v.03 re-create.v.01 regenerate.v.01 refresh.v.02 vent.v.02
+change.v.02 change_magnitude.v.01 decrease.v.01 shrivel.v.01 atrophy.v.01
+move.v.02 put.v.01 recline.v.02
+use.v.01 fall_back.v.05
+determine.v.03 identify.v.01 distinguish.v.01 demarcate.v.01
+affect.v.05 move.v.11
+free.v.06 disinvolve.v.01
+change.v.01 clarify.v.02
+change.v.02 change_shape.v.01 bend.v.01 crook.v.01
+touch.v.01 stroke.v.01 caress.v.01 chuck.v.03
+move.v.02 put.v.01 insert.v.02 plug.v.05
+travel.v.01 walk.v.01 stumble.v.01
+touch.v.01 handle.v.04 manipulate.v.02 shuffle.v.03 riffle.v.04
+change.v.01 incandesce.v.01
+stand_still.v.01 grind_to_a_halt.v.01
+watch.v.01 watch.v.03 spectate.v.01
+install.v.02 invest.v.04 crown.v.01
+move.v.02 expel.v.01 banish.v.03
+travel.v.03 travel.v.02 tour.v.01 visit.v.01
+utter.v.02 pant.v.02
+travel.v.01 travel.v.05 ride.v.02 boat.v.01 row.v.01 scull.v.01
+act.v.01 interact.v.01 communicate.v.02 talk.v.01 orate.v.01
+affect.v.05 disturb.v.01 distress.v.02
+move.v.02 separate.v.02 cut.v.01 bore.v.02 trepan.v.01
+move.v.02 put.v.01 situate.v.02 sediment.v.01
+change.v.01 dirty.v.01 blemish.v.02
+change.v.02 grow.v.08 teethe.v.01
+move.v.02 propel.v.01 hit.v.01 double.v.02
+change.v.01 decrease.v.02 reduce.v.01 retrench.v.02
+change.v.01 decorate.v.01 lacquer.v.01
+blind.v.01 dazzle.v.01
+change.v.02 change_shape.v.01 twist.v.04 entangle.v.02 enmesh.v.01
+transfer.v.05 give.v.03 pay.v.01 spend.v.02 consume.v.03 fritter.v.01
+act.v.01 interact.v.01 communicate.v.02 inform.v.01 announce.v.01 advertise.v.01 headline.v.01
+move.v.02 raise.v.02 levitate.v.01
+work.v.01 serve.v.07
+act.v.01 exert.v.03
+touch.v.01 strike.v.01 down.v.05 submarine.v.03
+move.v.02 put.v.01 lay.v.02 bury.v.02
+happen.v.01 synchronize.v.02
+think.v.03 evaluate.v.02 rate.v.01 seed.v.05
+touch.v.01 hit.v.03 sock.v.01
+act.v.01 interact.v.01 communicate.v.02 inform.v.01 tell.v.02 publicize.v.01 circulate.v.02 podcast.v.01
+join.v.01 unite.v.01 marry.v.01 wive.v.01
+change.v.02 change_state.v.01 dress.v.02 prim.v.03
+get_the_better_of.v.01 beat.v.01 surpass.v.02 out-herod.v.01
+affect.v.05 disturb.v.01 agitate.v.02 electrify.v.01
+travel.v.01 walk.v.01 slog.v.02 squelch.v.03
+make.v.03 arouse.v.01 anger.v.01 combust.v.04
+think.v.03 evaluate.v.02 measure.v.04 praise.v.01 flatter.v.01 fawn.v.02 curry_favor.v.01
+treat.v.03 iodize.v.02
+change.v.01 end.v.02 complete.v.01 follow_through.v.02 adhere.v.02
+get_the_better_of.v.01 beat.v.01 surpass.v.02 outroar.v.01
+move.v.03 diverge.v.01 branch.v.02 trifurcate.v.01
+treat.v.03 operate_on.v.01 sterilize.v.02 emasculate.v.02 caponize.v.01
+change.v.01 decorate.v.01 vermiculate.v.01
+connect.v.01 attach.v.01 fasten.v.01 sew.v.01 fell.v.03
+act.v.01 interact.v.01 communicate.v.02 talk.v.02 snap.v.01
+change.v.02 tighten.v.02 compress.v.02 strangulate.v.02
+constitute.v.01 fall_into.v.01
+change.v.02 change_state.v.01 better.v.03 get_well.v.01
+avoid.v.01 hedge.v.01 beg.v.04
+change.v.01 demist.v.01
+change.v.02 change_magnitude.v.01 increase.v.01 wax.v.02 jump.v.04
+move.v.02 chase_away.v.01 fire.v.06
+displease.v.01 annoy.v.01 harass.v.01 torment.v.02 hamstring.v.01

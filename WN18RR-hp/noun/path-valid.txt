@@ -1,0 +1,800 @@
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 uncertainty.n.01 indefiniteness.n.01 inconclusiveness.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 vine.n.01 gourd.n.03 melon.n.02 cucumber.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 plant_genus.n.01 onosmodium.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 jupiter's_beard.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 calendar_day.n.01 day.n.03 holiday.n.02 legal_holiday.n.01 boxing_day.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 stimulant.n.02 kat.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 stimulant.n.02 kat.n.01
+entity.n.01 physical_entity.n.01 process.n.06 organic_process.n.01 bodily_process.n.01 sleeping.n.03 nap.n.04 zizz.n.02
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 passage.n.07 meatus.n.01 auditory_meatus.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 earth.n.02 soil.n.02 clay.n.01 daub.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 material.n.01 earth.n.02 soil.n.02 clay.n.01 daub.n.01
+entity.n.01 abstraction.n.06 measure.n.02 system_of_measurement.n.01 standard.n.01 earned_run_average.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 discovery.n.01 determination.n.01 localization.n.01 echolocation.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 unwelcome_person.n.01 unpleasant_person.n.01 scold.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 unwelcome_person.n.01 unpleasant_person.n.01 scold.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 flowering_shrub.n.01 bird_of_paradise.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 rodent.n.01 prairie_dog.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 social_control.n.01 duty.n.01 requirement.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 social_control.n.01 duty.n.01 requirement.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 commodity.n.01 merchandise.n.01 feature.n.06
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 doctrine.n.01 nihilism.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 medium.n.01 telecommunication.n.01 broadcasting.n.02 television.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 pulicidae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 polychaeta.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 moschus.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 preserver.n.03 defender.n.01 guard.n.01 doorkeeper.n.03 night_porter.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 preserver.n.03 defender.n.01 guard.n.01 doorkeeper.n.03 night_porter.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 liliid_monocot_genus.n.01 asphodeline.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 body_substance.n.01 liquid_body_substance.n.01 secretion.n.02 hormone.n.01 steroid_hormone.n.01 progestin.n.01 progesterone.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 body_substance.n.01 liquid_body_substance.n.01 secretion.n.02 hormone.n.01 steroid_hormone.n.01 progestin.n.01 progesterone.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 genus_draba.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 preserver.n.03 defender.n.01 lawman.n.01 police_sergeant.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 preserver.n.03 defender.n.01 lawman.n.01 police_sergeant.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 echinoderm.n.01 sea_urchin.n.01
+entity.n.01 physical_entity.n.01 object.n.01 curio.n.01 bric-a-brac.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 due_process.n.01 judgment.n.03 opinion.n.05 fatwa.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 due_process.n.01 judgment.n.03 opinion.n.05 fatwa.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 trouble.n.03 misfortune.n.01 mishap.n.02 accident.n.01 collision.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 command.n.01 countermand.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 transaction.n.01 commerce.n.01 trading.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 transaction.n.01 commerce.n.01 trading.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 juvenile.n.01 child.n.01 silly.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 juvenile.n.01 child.n.01 silly.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_magnitude.n.01 decrease.n.04 shortening.n.02 contraction.n.01 uterine_contraction.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 ceratopetalum.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 pleasure.n.01 sexual_pleasure.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 eriogonum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 investigation.n.02 research.n.01 scientific_research.n.01 biological_research.n.01 somatic_cell_nuclear_transplantation.n.01 therapeutic_cloning.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fern_genus.n.01 acrostichum.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 gumbo.n.03
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 inhabitant.n.01 resident.n.01 townsman.n.02 townee.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 inhabitant.n.01 resident.n.01 townsman.n.02 townee.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 alcyonaria.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 moraceae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 phylum.n.02 division.n.08 zygomycota.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 representation.n.02 display.n.03 spectacle.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 pterospermum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 cognitive_factor.n.01 difficulty.n.02 hindrance.n.01 bind.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 ability.n.02 superior_skill.n.01 art.n.03 fortification.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 sensory_activity.n.01 sensing.n.02 look.n.02 stare.n.01 glare.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 support.n.01 sustenance.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 fruit.n.01 edible_fruit.n.01 melon.n.01 muskmelon.n.02 cantaloup.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 edible_fruit.n.01 melon.n.01 muskmelon.n.02 cantaloup.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 monocot_family.n.01 liliid_monocot_family.n.01 agavaceae.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 leo.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 leo.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 individualist.n.01 withdrawer.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 individualist.n.01 withdrawer.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fungus_family.n.01 melampsoraceae.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 military_officer.n.01 commissioned_officer.n.01 commissioned_military_officer.n.01 lieutenant.n.01 sublieutenant.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 military_officer.n.01 commissioned_officer.n.01 commissioned_military_officer.n.01 lieutenant.n.01 sublieutenant.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 force.n.04 military_personnel.n.01 garrison.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 aedes.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 combination.n.07 temperance.n.03
+entity.n.01 abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 argument.n.01 proof.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 advocate.n.01 supporter.n.01 roundhead.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 advocate.n.01 supporter.n.01 roundhead.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 achillea.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 advocate.n.01 supporter.n.01 anglophile.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 advocate.n.01 supporter.n.01 anglophile.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 exchange.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 exchange.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 snake.n.01 elapid.n.01 krait.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fish_family.n.01 atherinidae.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 motionlessness.n.01 stationariness.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 communication.n.01 channel.n.05 lens.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 gymnosperm_genus.n.01 parasitaxus.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 phoenicophorium.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 cerambycidae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 shield.n.01 plate.n.14 armor_plate.n.01 cannon.n.03 rerebrace.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 animal_group.n.01 pod.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 agrology.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 conversion.n.09
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 consistency.n.01 viscosity.n.01 cohesiveness.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 myaceae.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 plant_material.n.01 wood.n.01 silver_quandong.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 material.n.01 plant_material.n.01 wood.n.01 silver_quandong.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 diversion.n.01 entertainment.n.01 show.n.01 presentation.n.02 performance.n.02 rendition.n.04
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 liliid_monocot_genus.n.01 polygonatum.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 beverage.n.01 alcohol.n.01 mixed_drink.n.01 highball.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 fluid.n.01 liquid.n.01 beverage.n.01 alcohol.n.01 mixed_drink.n.01 highball.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 fluid.n.01 liquid.n.01 beverage.n.01 alcohol.n.01 mixed_drink.n.01 highball.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 mixed_drink.n.01 highball.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 drug_of_abuse.n.01 alcohol.n.01 mixed_drink.n.01 highball.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 hulsea.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 sailor.n.01 mariner.n.01 whaler.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 sailor.n.01 mariner.n.01 whaler.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 shield.n.01 plate.n.14 armor_plate.n.01 nosepiece.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 anti-tnf_compound.n.01 etanercept.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 anti-tnf_compound.n.01 etanercept.n.01
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 number.n.02 count.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 goose.n.01 honker.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 scavenger.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 plectognath.n.01 ocean_sunfish.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fish_family.n.01 luvaridae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 symphoricarpos.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 resolution.n.01 joint_resolution.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 ending.n.04 destruction.n.02 ruin.n.04 devastation.n.03
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 body_substance.n.01 liquid_body_substance.n.01 secretion.n.02 hormone.n.01 somatotropin.n.01 protropin.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 body_substance.n.01 liquid_body_substance.n.01 secretion.n.02 hormone.n.01 somatotropin.n.01 protropin.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 monocot_family.n.01 sparganiaceae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 bin.n.01 coalbin.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 tradescantia.n.01
+entity.n.01 physical_entity.n.01 process.n.06 natural_process.n.01 condensation.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 assembly.n.06 meeting.n.04 socialization.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 assembly.n.06 meeting.n.04 socialization.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 inhabitant.n.01 asian.n.01 indian.n.02 gypsy.n.02 gitano.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 inhabitant.n.01 asian.n.01 indian.n.02 gypsy.n.02 gitano.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 person_of_color.n.01 asian.n.01 indian.n.02 gypsy.n.02 gitano.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 person_of_color.n.01 asian.n.01 indian.n.02 gypsy.n.02 gitano.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 genus_moloch.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 skinner.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 skinner.n.04
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 phylum.n.02 ctenophora.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 carnivore.n.01 musteline_mammal.n.01 ratel.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 mechanism.n.05 mechanical_device.n.01 shutter.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 accomplishment.n.01 attainment.n.01 success.n.02 score.n.10 run.n.01 run_batted_in.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 building.n.01 theater.n.01 cinema.n.02 fleapit.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 gallinule.n.01 purple_gallinule.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 principal.n.05 criminal.n.01 mafioso.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 principal.n.05 criminal.n.01 mafioso.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 cruciferous_vegetable.n.01 turnip.n.02 rutabaga.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 root_vegetable.n.01 turnip.n.02 rutabaga.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 commoner.n.01 proletarian.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 commoner.n.01 proletarian.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 bombycidae.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 trait.n.01 discipline.n.03 self-discipline.n.01 austerity.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electronic_device.n.01 display.n.06 visual_display_unit.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 assistant.n.01 prompter.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 assistant.n.01 prompter.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 military_unit.n.01 militia.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 dilleniid_dicot_family.n.01 sterculiaceae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 fruit_tree.n.01 citrus.n.02 citron.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 expert.n.01 observer.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 expert.n.01 observer.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 restraint.n.06 fastener.n.02 button.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 traveler.n.01 mover.n.03 pusher.n.03 nudger.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 traveler.n.01 mover.n.03 pusher.n.03 nudger.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 shrublet.n.01 california_fuchsia.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 administrative_unit.n.01 division.n.04 department.n.01 government_department.n.01 federal_department.n.01 executive_department.n.01 department_of_energy.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 cypriniformes.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 injury.n.01 dislocation.n.03
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 sailor.n.01 mariner.n.01 deckhand.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 sailor.n.01 mariner.n.01 deckhand.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 tilia.n.01
+entity.n.01 abstraction.n.06 relation.n.01 possession.n.02 transferred_property.n.01 outgo.n.01 cost.n.01 payment.n.01 regular_payment.n.01 pension.n.01 old-age_pension.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 education.n.02 eruditeness.n.01 letters.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 design.n.04 tetraskelion.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 design.n.04 marking.n.02 crisscross.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 locomotion.n.02 step.n.03 pace.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 pteridophyte.n.01 fern.n.01 hart's-tongue.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 conveyance.n.03 tramway.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 bovine.n.01 ox.n.02 aurochs.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 block.n.01 nut.n.03
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 leader.n.01 politician.n.01 governor.n.01 viceroy.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 leader.n.01 politician.n.01 governor.n.01 viceroy.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 brevoortia.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 missionary.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 religious_person.n.01 missionary.n.02
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 association.n.01 league.n.01 major_league.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 being.n.01 possibility.n.02 opportunity.n.01 occasion.n.05 sale.n.03 bazaar.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 aid.n.02 support.n.02 blessing.n.01 backing.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 abnormality.n.01 anomaly.n.01 birth_defect.n.01 color_blindness.n.01 monochromacy.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 imperfection.n.01 defect.n.01 birth_defect.n.01 color_blindness.n.01 monochromacy.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 pathological_state.n.01 ill_health.n.01 unfitness.n.01 disability.n.01 visual_impairment.n.01 color_blindness.n.01 monochromacy.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 propulsion.n.02 shooting.n.01 shoot.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 demander.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 demander.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 sound.n.04 chirp.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 root.n.01 orrisroot.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_magnitude.n.01 increase.n.05 expansion.n.01 extension.n.02 spread.n.10 scatter.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antibacterial.n.01 antibiotic.n.01 kanamycin.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antibacterial.n.01 antibiotic.n.01 kanamycin.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 arum.n.02 taro.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 dalbergia.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 literary_composition.n.01 fiction.n.01 story.n.02 legend.n.01 arthurian_legend.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 rusher.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 rusher.n.03
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 indictment.n.01
+entity.n.01 abstraction.n.06 group.n.01 people.n.01 dead.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 nonworker.n.01 idler.n.01 lie-abed.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 nonworker.n.01 idler.n.01 lie-abed.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 language_unit.n.01 name.n.01 appellation.n.01 nickname.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 degree.n.01 intensity.n.02 force.n.03 energy.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 bird_of_prey.n.01 secretary_bird.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 honeycreeper.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 military_officer.n.01 commanding_officer.n.01 supreme_allied_commander_atlantic.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 military_officer.n.01 commanding_officer.n.01 supreme_allied_commander_atlantic.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 bulbous_plant.n.01 liliaceous_plant.n.01 death_camas.n.01 grassy_death_camas.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 occupation.n.01 position.n.06 emirate.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 gymnelis.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 attraction.n.03 allure.n.01 invitation.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 beach_heather.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 antifungal.n.01 bordeaux_mixture.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 antifungal.n.01 bordeaux_mixture.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 commodity.n.01 consumer_goods.n.01 clothing.n.01 knitwear.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 knitwear.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 helianthemum.n.01 frostweed.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 process.n.02 basic_cognitive_process.n.01 perception.n.03 sensation.n.01 taste.n.01 sweet.n.04
+entity.n.01 abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 identification.n.02 positive_identification.n.01 number.n.08 social_security_number.n.01
+entity.n.01 abstraction.n.06 measure.n.02 time_unit.n.01 bell.n.04
+entity.n.01 physical_entity.n.01 object.n.01 part.n.02 component.n.03 heating_element.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 connection.n.03 junction.n.04 joint.n.05 mortise_joint.n.02
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 linear_unit.n.01 metric_linear_unit.n.01 angstrom.n.01
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 metric_unit.n.01 metric_linear_unit.n.01 angstrom.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 stick.n.01 club.n.03 truncheon.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 marsh_plant.n.01 brooklime.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 worsening.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 eutheria.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 plastic.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 western_sand_cherry.n.01
+entity.n.01 abstraction.n.06 relation.n.01 linguistic_relation.n.01 grammatical_relation.n.01 aspect.n.04
+entity.n.01 abstraction.n.06 relation.n.01 possession.n.02 transferred_property.n.01 outgo.n.01 cost.n.01 payment.n.01 refund.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 beater.n.02 carpet_beater.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 topic.n.02 remit.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 fulica.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.04 notation.n.01 mathematical_notation.n.01 sign.n.11
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 bacillariophyceae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bacteria_genus.n.01 genus_corynebacterium.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 poecilocapsus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 negro_peach.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 vine.n.01 gourd.n.03 melon.n.02 sweet_melon.n.01 cantaloupe.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 division.n.07 schizophyta.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 tube.n.04 vessel.n.01 blood_vessel.n.01 artery.n.01 celiac_trunk.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 damage.n.03 burn.n.05
+entity.n.01 physical_entity.n.01 process.n.06 natural_process.n.01 extraction.n.01 dehydration.n.03 inspissation.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 decade.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 design.n.04 marking.n.02 stripe.n.05 band.n.03 collar.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 notostraca.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 trouble.n.03 noise.n.03 background.n.04
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 lavandula.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 linaceae.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 social_control.n.01 management.n.01 conducting.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 social_control.n.01 management.n.01 conducting.n.02
+entity.n.01 abstraction.n.06 relation.n.01 magnitude_relation.n.01 rate.n.01 deathrate.n.01 neonatal_mortality.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 fig_tree.n.01 banyan.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 eudyptes.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 cochlearia.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 due_process.n.01 proceeding.n.01 review.n.08
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 due_process.n.01 proceeding.n.01 review.n.08
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 process.n.04 defense_mechanism.n.01 compensation.n.02 overcompensation.n.01
+entity.n.01 physical_entity.n.01 process.n.06 human_process.n.01 psychoanalytic_process.n.01 defense_mechanism.n.01 compensation.n.02 overcompensation.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 pastry.n.02 tart.n.03
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 seafood.n.01 saltwater_fish.n.01 tuna.n.02 albacore.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 social_event.n.01 affair.n.03 party.n.04 bunfight.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 gymnospermous_tree.n.01 conifer.n.01 plum-fruited_yew.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 sadness.n.01 depression.n.04 despondency.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 illogicality.n.01 invalidity.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 tipuana.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 bread.n.01 bun.n.01 sweet_roll.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 foodstuff.n.02 starches.n.01 bread.n.01 bun.n.01 sweet_roll.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 domestic_partner.n.01 spouse.n.01 newlywed.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 domestic_partner.n.01 spouse.n.01 newlywed.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 relative.n.01 spouse.n.01 newlywed.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 relative.n.01 spouse.n.01 newlywed.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 sense_organ.n.01 chemoreceptor.n.01 nose.n.01 snout.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 stomatopoda.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 species.n.01 bacteria_species.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 falsification.n.02 deception.n.02 cheat.n.05
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 servant.n.01 domestic.n.01 maid.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 servant.n.01 domestic.n.01 maid.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 jew.n.01 jewess.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 jew.n.01 jewess.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 religion.n.02 sect.n.01 high_church.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 antacid.n.01 pepto-bismal.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 antacid.n.01 pepto-bismal.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 warbler.n.02 new_world_warbler.n.01 yellow_warbler.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 opisthocomus.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 representation.n.01 model.n.07 prototype.n.01 imago.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 patent.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 area.n.01 space.n.03 key.n.09
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 vegetable.n.01 legume.n.03 bean.n.01 common_bean.n.02 fresh_bean.n.01 shell_bean.n.02 sieva_bean.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 genus_rhinoceros.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 moth.n.01 pyralid.n.01 bee_moth.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 bat.n.01 fruit_bat.n.01 harpy.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 natural_science.n.01 life_science.n.01 medical_science.n.01 medicine.n.01 ophthalmology.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 tyranni.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 trouble.n.03 affliction.n.03 attack.n.07 seizure.n.01 absence.n.04
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 steatornis.n.01
+entity.n.01 abstraction.n.06 measure.n.02 point.n.06 end.n.02 death.n.04
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 natural_science.n.01 life_science.n.01 medical_science.n.01 medicine.n.01 rhinolaryngology.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 commodity.n.01 consumer_goods.n.01 durables.n.01 appliance.n.02 home_appliance.n.01 white_goods.n.01 refrigerator.n.01 cooler.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 celestial_body.n.01 star.n.01 lodestar.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 information.n.02 evidence.n.01 symptom.n.01 constipation.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 soft-finned_fish.n.01 clupeid_fish.n.01 sardine.n.02 brisling.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 food_fish.n.01 sardine.n.02 brisling.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 pizza.n.01
+entity.n.01 physical_entity.n.01 process.n.06 processing.n.01 data_processing.n.01 operation.n.04 access.n.05
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 simulium.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 creator.n.02 producer.n.02 theatrical_producer.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 creator.n.02 producer.n.02 theatrical_producer.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 course.n.07 appetizer.n.01 crudites.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fern_family.n.01 selaginellaceae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 magnoliid_dicot_genus.n.01 cercidiphyllum.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 differentiator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 differentiator.n.01
+entity.n.01 abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 indo-european.n.02 germanic.n.01 west_germanic.n.01 german.n.02 yiddish.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 equipment.n.01 photographic_equipment.n.01 camera.n.01 polaroid_camera.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 orchid.n.01 helleborine.n.02 stream_orchid.n.01
+entity.n.01 physical_entity.n.01 process.n.06 organic_process.n.01 growth.n.01 life_cycle.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 instrument_of_execution.n.01 gallows.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 virility_drug.n.01 tadalafil.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 virility_drug.n.01 tadalafil.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 religious_person.n.01 religious.n.01 cenobite.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 religious_person.n.01 religious.n.01 cenobite.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 attacker.n.01 ambusher.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 attacker.n.01 ambusher.n.01
+entity.n.01 abstraction.n.06 relation.n.01 position.n.07 placement.n.01 spacing.n.02 distribution.n.02 scatter.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 matter.n.06 text.n.01 line.n.05 punch_line.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 psychotropic_agent.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 psychotropic_agent.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 drug_of_abuse.n.01 sedative.n.01 sedative-hypnotic.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 drug_of_abuse.n.01 sedative.n.01 sedative-hypnotic.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 sedative.n.01 sedative-hypnotic.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 sedative.n.01 sedative-hypnotic.n.01 tranquilizer.n.01 minor_tranquilizer.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 relaxant.n.01 muscle_relaxant.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 relaxant.n.01 muscle_relaxant.n.01 benzodiazepine.n.01 lorazepam.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 genus_allamanda.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 academy.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 enlisted_person.n.01 enlisted_man.n.01 recruit.n.01 sprog.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 serviceman.n.01 enlisted_person.n.01 enlisted_man.n.01 recruit.n.01 sprog.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 ability.n.02 faculty.n.01 sense.n.03 sensitivity.n.01 exteroception.n.01 sight.n.03 night_vision.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 ability.n.02 faculty.n.01 sense.n.03 modality.n.03 sight.n.03 night_vision.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 labor.n.02 effort.n.02 struggle.n.03 wrestle.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 financial_institution.n.01 central_bank.n.01 federal_reserve_system.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 proboscidean.n.01 mastodon.n.01 american_mastodon.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 haemulon.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 doctrine.n.01 antiestablishmentarianism.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 tung_tree.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 peer.n.01 stand-in.n.01 surrogate.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 peer.n.01 stand-in.n.01 surrogate.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 traveler.n.01 migrant.n.01 settler.n.01 pioneer.n.02 frontierswoman.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 traveler.n.01 migrant.n.01 settler.n.01 pioneer.n.02 frontierswoman.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 anti-inflammatory.n.01 nonsteroidal_anti-inflammatory.n.01 ketoprofen.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 anti-inflammatory.n.01 nonsteroidal_anti-inflammatory.n.01 ketoprofen.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electrical_device.n.01 solar_array.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 lipid-lowering_medicine.n.01 simvastatin.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 lipid-lowering_medicine.n.01 simvastatin.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 public_relations_person.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 public_relations_person.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 reticulitermes.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 cuon.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 selective-serotonin_reuptake_inhibitor.n.01 fluoxetine.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 selective-serotonin_reuptake_inhibitor.n.01 fluoxetine.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 craspedia.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 petroselinum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 change_of_color.n.01 coloring.n.03 tinting.n.01
+entity.n.01 physical_entity.n.01 process.n.06 organic_process.n.01 growth.n.01 foliation.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 tenebrionidae.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 nonaccomplishment.n.01 negligence.n.01 concurrent_negligence.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 area.n.05 choir.n.03
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 emotion.n.01 joy.n.01 exultation.n.01 triumph.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 hater.n.01 abominator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 hater.n.01 abominator.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 advocate.n.01 supporter.n.01 seconder.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 advocate.n.01 supporter.n.01 seconder.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 termination.n.05 dismissal.n.04 conge.n.03
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 libra.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 libra.n.01
+entity.n.01 physical_entity.n.01 process.n.06 natural_process.n.01 sink.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 natural_science.n.01 life_science.n.01 biology.n.01 physiology.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 status.n.01 high_status.n.01 precedence.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 sophora.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 mammal.n.01 placental.n.01 ungulate.n.01 even-toed_ungulate.n.01 ruminant.n.01 bovid.n.01 bovine.n.01 ox.n.02 asian_wild_ox.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 toiletry.n.01 cosmetic.n.01 makeup.n.01 rouge.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 zanthoxylum.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 neural_structure.n.01 ganglion.n.01 basal_ganglion.n.01 corpus_striatum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 objection.n.02 complaint.n.03 grumble.n.02
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 speech.n.02 conversation.n.01 talk.n.01 wind.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 protective_covering.n.01 blind.n.03 curtain.n.01 drop_curtain.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 furnishing.n.02 curtain.n.01 drop_curtain.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 structure.n.03 arrangement.n.03 design.n.02 hotel_plan.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 study_hall.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 traveler.n.01 mover.n.03 traverser.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 traveler.n.01 mover.n.03 traverser.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 game.n.01 card_game.n.01 poker.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 supporting_structure.n.01 support.n.07 foundation.n.03 raft_foundation.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 skidder.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 skidder.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 kingdom.n.05 animalia.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.04 coding_system.n.01 code.n.03 software.n.01 beta_software.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 seafood.n.01 saltwater_fish.n.01 blowfish.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 censor.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 censor.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 seafood.n.01 saltwater_fish.n.01 porgy.n.01
+entity.n.01 abstraction.n.06 group.n.01 collection.n.01 mythology.n.01 classical_mythology.n.01 greek_mythology.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electrical_device.n.01 circuit.n.01 limiter.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 wading_bird.n.01 shoebill.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 calendar_day.n.01 day.n.03 holiday.n.02 legal_holiday.n.01 presidents'_day.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 occupation.n.01 position.n.06 inspectorship.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 suitability.n.01 convenience.n.02 handiness.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 vine.n.01 grape.n.02 vinifera.n.01 cabernet_sauvignon_grape.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 elected_official.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 elected_official.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 equipment.n.01 apparatus.n.01 x-ray_machine.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 vitamin.n.01 water-soluble_vitamin.n.01 b-complex_vitamin.n.01 vitamin_b1.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 reading.n.04 bumf.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 amphibian_family.n.01 hylidae.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 shape.n.02 figure.n.06 plane_figure.n.01 polygon.n.01 quadrilateral.n.01 parallelogram.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 social_event.n.01 contest.n.01 race.n.01 political_campaign.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 assistant.n.01 attendant.n.01 esquire.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 assistant.n.01 attendant.n.01 esquire.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 converter.n.01 data_converter.n.01 digitizer.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 genus_hoya.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 product.n.02 work.n.02 publication.n.01 book.n.01 textbook.n.01 primer.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 foodstuff.n.02 ingredient.n.03 flavorer.n.01 wintergreen_oil.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 saltwort.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 arousal.n.01 stimulation.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 bird_family.n.01 meleagrididae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 style.n.05
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 touch.n.05 catch.n.09 mesh.n.05
+entity.n.01 abstraction.n.06 communication.n.02 signal.n.01 symbol.n.01 token.n.01 postage.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 movement.n.03 change_of_location.n.01 flow.n.01 current.n.02 eddy.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 facility.n.01 station.n.01 service_station.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 water_starwort.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 chemical_element.n.01 metallic_element.n.01 titanium.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 chemical_element.n.01 metallic_element.n.01 titanium.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 wonder.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 goosefish.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 time.n.05 cosmic_time.n.01 equinox.n.01 vernal_equinox.n.01 noruz.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 mollusk_family.n.01 arcidae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 area.n.01 retreat.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 lari.n.02
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 speech.n.02 saying.n.01 maxim.n.01 aphorism.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 satyridae.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 trait.n.01 resoluteness.n.01 sturdiness.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 sea_milkwort.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fungus_family.n.01 entomophthoraceae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 reptile_genus.n.01 oxyuranus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 fraxinella.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 projection.n.04 head.n.31
+entity.n.01 abstraction.n.06 attribute.n.02 trait.n.01 activeness.n.02 animation.n.03 liveliness.n.02 pep.n.01
+entity.n.01 abstraction.n.06 communication.n.02 expressive_style.n.01 music_genre.n.01 religious_music.n.01 religious_song.n.01 chant.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 music_genre.n.01 religious_music.n.01 religious_song.n.01 chant.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 musical_composition.n.01 song.n.01 religious_song.n.01 chant.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 sector.n.02 business.n.07
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 process.n.02 basic_cognitive_process.n.01 memory.n.02 recall.n.04 mind.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 protoctist_genus.n.01 genus_stentor.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 guaiacum.n.03
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 passage.n.07 duct.n.01 lymph_vessel.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 selective-serotonin_reuptake_inhibitor.n.01 sertraline.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 selective-serotonin_reuptake_inhibitor.n.01 sertraline.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 operation.n.05 offense.n.05 rollback.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 genus_xeranthemum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 joining.n.01 junction.n.05
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 machine.n.01 power_tool.n.01 hammer.n.07
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 tool.n.01 power_tool.n.01 hammer.n.07
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 metatheria.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 recovery.n.03 recapture.n.02
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 reproductive_organ.n.01 genitalia.n.01 male_genitalia.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 weaponry.n.01 ammunition.n.01 cartridge.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 magnitude.n.01 amount.n.02 number.n.01 numerousness.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 administrative_unit.n.01 agency.n.01 office_of_naval_intelligence.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 conveyance.n.03 vehicle.n.01 craft.n.02 vessel.n.02 boat.n.01 barge.n.01 pontoon.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 important_person.n.01 big_shot.n.01 supremo.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 adult.n.01 important_person.n.01 big_shot.n.01 supremo.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 bird_family.n.01 ptilonorhynchidae.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 contestant.n.01 athlete.n.01 acrobat.n.01 contortionist.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 contestant.n.01 athlete.n.01 acrobat.n.01 contortionist.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 stictopelia.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 covering.n.01 body_covering.n.01 hair.n.01 hairdo.n.01 bob.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 waxwing.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 tissue.n.01 animal_tissue.n.01 connective_tissue.n.01 bone.n.01 carpal_bone.n.01 hamate.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 representation.n.02 drawing.n.02 sketch.n.01 draft.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 tipu.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 training.n.01 exercise.n.03 military_drill.n.01 close-order_drill.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 locomotion.n.02 walk.n.01 plodding.n.02
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 certificate.n.01 probate.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 fruit.n.01 edible_fruit.n.01 hog_plum.n.04
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 edible_fruit.n.01 hog_plum.n.04
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 temperature.n.01 coldness.n.03 cool.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 physical_property.n.01 temperature.n.01 coldness.n.03 cool.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.01 vasoconstrictor.n.01 coldness.n.03 cool.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 furnishing.n.02 furniture.n.01 lamp.n.02
+entity.n.01 physical_entity.n.01 object.n.01 location.n.01 region.n.03 geographical_area.n.01 territory.n.03
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 unresponsiveness.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fungus_genus.n.01 thielavia.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 genus_forsythia.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 mechanism.n.05 mechanical_device.n.01 piston.n.02
+entity.n.01 physical_entity.n.01 process.n.06 natural_process.n.01 chemical_process.n.01 desalination.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 arousal.n.01 excitation.n.03 thrill.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 occupation.n.01 profession.n.02 education.n.04 teaching.n.01 indoctrination.n.01 inculcation.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_magnitude.n.01 increase.n.05 aggrandizement.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 return.n.10 retaliation.n.01 vengeance.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 return.n.10 retaliation.n.01 vengeance.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 supernaturalism.n.01 magic.n.01 sorcery.n.01 witchcraft.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 coccyzus.n.01
+entity.n.01 abstraction.n.06 group.n.01 collection.n.01 set.n.01 trio.n.04 triplicity.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 turdus.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 blocker.n.02 beta_blocker.n.01 esmolol.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 blocker.n.02 beta_blocker.n.01 esmolol.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 blackwood.n.02 logwood.n.02
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 difficulty.n.04 effortfulness.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 cell.n.02 somatic_cell.n.01 blood_cell.n.01 leukocyte.n.01 lymphocyte.n.01 t_cell.n.01 killer_t_cell.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 cell.n.02 somatic_cell.n.01 phagocyte.n.01 free_phagocyte.n.01 leukocyte.n.01 lymphocyte.n.01 t_cell.n.01 killer_t_cell.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 attitude.n.01 orientation.n.02 political_orientation.n.01 collectivism.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 preserver.n.03 defender.n.01 custodian.n.01 caretaker.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 preserver.n.03 defender.n.01 custodian.n.01 caretaker.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 structure.n.03 arrangement.n.03 data_structure.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 torpor.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 disorder.n.01 cardiovascular_disease.n.01 heart_disease.n.01 valvular_heart_disease.n.01
+entity.n.01 abstraction.n.06 communication.n.02 indication.n.01 evidence.n.02 argument.n.01 specious_argument.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 hydnocarpus.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 arthropod_family.n.01 tenthredinidae.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 mollusk.n.01 chiton.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 bag.n.04
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 number.n.02 constant.n.02 gravitational_constant.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 organ.n.01 reproductive_organ.n.01 genitalia.n.01 female_genitalia.n.01 vulva.n.01
+entity.n.01 physical_entity.n.01 process.n.06 organic_process.n.01 bodily_process.n.01 sexual_activity.n.01 foreplay.n.01 caressing.n.01 snogging.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 decoration.n.01 inlay.n.02
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 soundness.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 fixing_agent.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 material.n.01 chemical.n.01 compound.n.02 fixing_agent.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 anser.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 australian_heath.n.01 epacris.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 toiletry.n.01 cosmetic.n.01 highlighter.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 fish.n.02 salmon.n.03 silver_salmon.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 arbutus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 pyrethrum.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 cooking.n.01 boiling.n.02
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 mass_unit.n.01 metric_weight_unit.n.01 myriagram.n.01
+entity.n.01 abstraction.n.06 measure.n.02 definite_quantity.n.01 unit_of_measurement.n.01 metric_unit.n.01 metric_weight_unit.n.01 myriagram.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 amia.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 ardea.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 polity.n.02 government.n.01 papacy.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 invalidator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 official.n.01 invalidator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 albizzia.n.01 rain_tree.n.01
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 calendar_day.n.01 day.n.03 valentine_day.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 proboscidea.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 rejection.n.01 banishment.n.02 anathematization.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 mixed-blood.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 mixed-blood.n.01
+entity.n.01 physical_entity.n.01 process.n.06 organic_process.n.01 bodily_process.n.01 consumption.n.01 eating.n.01 engorgement.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 movement.n.11 lowering.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 sound.n.04 noise.n.01 clang.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 desert_plant.n.01 agave.n.01 dracaena.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 genus_ailanthus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 mechanism.n.05 mechanical_device.n.01 machine.n.04 lever.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 bristly_sarsaparilla.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 undertaking.n.01 venture.n.01 risk.n.02 gamble.n.02 raise.n.03 doubling.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 error.n.06 software_error.n.01 semantic_error.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 action.n.02 eruption.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 soapwort.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 tricyclic.n.01 amitriptyline.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antidepressant.n.01 tricyclic.n.01 amitriptyline.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 unit.n.05 group.n.02 carboxyl.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 pain.n.02 distress.n.01 anguish.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 movement.n.04 artistic_movement.n.01 cubism.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 representation.n.10 pictorial_representation.n.01 depiction.n.04 portraiture.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 entertainer.n.01 performer.n.01 musician.n.01 singer.n.01 folk_singer.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 entertainer.n.01 performer.n.01 musician.n.01 singer.n.01 folk_singer.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 cephalanthera.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 running_away.n.01 escape.n.01 evasion.n.04 slip.n.15
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 changelessness.n.02 fixedness.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 acinonyx.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 aquatic_plant.n.01 golden_club.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 angiospermous_tree.n.01 nut_tree.n.01 pistachio.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 process.n.02 basic_cognitive_process.n.01 classification.n.03 appraisal.n.01 evaluation.n.02 mark.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 elymus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 saury.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 enterprise.n.02 business.n.01 franchise.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 important_person.n.01 celebrity.n.01 luminary.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 adult.n.01 important_person.n.01 celebrity.n.01 luminary.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 section.n.01 conclusion.n.08 peroration.n.02
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 section.n.01 conclusion.n.08 peroration.n.02
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 deed.n.01 title_deed.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 kindness.n.03 forgiveness.n.02 exculpation.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 occupation.n.01 position.n.06 rabbinate.n.02
+entity.n.01 abstraction.n.06 communication.n.02 visual_communication.n.01 video.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 bar.n.03 lever.n.01 pedal.n.02 brake_pedal.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 slide.n.05 skid.n.03
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 due_process.n.01 judgment.n.03 final_judgment.n.01 acquittal.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 due_process.n.01 judgment.n.03 final_judgment.n.01 acquittal.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 resistance.n.11 protest.n.02 direct_action.n.01 passive_resistance.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 resistance.n.11 protest.n.02 direct_action.n.01 passive_resistance.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 man.n.01 guy.n.01 sod.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 adult.n.01 man.n.01 guy.n.01 sod.n.04
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 male.n.02 man.n.01 guy.n.01 sod.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 male.n.02 man.n.01 guy.n.01 sod.n.04
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mollusk_genus.n.01 genus_nerita.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 dilleniid_dicot_genus.n.01 macleaya.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 collembola.n.01
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 commitment.n.04 assurance.n.02 guarantee.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fungus_genus.n.01 tricholoma.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 protoctist_genus.n.01 tribonema.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 maneuver.n.03 stroke.n.01 cut.n.14
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 sceloglaux.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 vitamin.n.01 fat-soluble_vitamin.n.01 vitamin_k.n.01
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 subject.n.01 question.n.02 problem.n.02 poser.n.03
+entity.n.01 abstraction.n.06 group.n.01 collection.n.01 pile.n.01 woodpile.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 reptile.n.01 diapsid.n.01 saurian.n.01 lizard.n.01 agamid.n.01 moloch.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 hedysarum.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 idea.n.01 plan.n.01 plan_of_action.n.01 play.n.03 basketball_play.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 engraver.n.01 lapidary.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 engraver.n.01 lapidary.n.02
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 happening.n.01 incident.n.01 infection.n.04
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 belief.n.01 opinion.n.01 preconception.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 magnoliid_dicot_genus.n.01 nymphaea.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 litocranius.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 scindapsus.n.01
+entity.n.01 abstraction.n.06 communication.n.02 signal.n.01 output_signal.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 creation.n.02 representation.n.02 photograph.n.01 scene.n.04
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 way.n.06 road.n.01 track.n.10 trail.n.02
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 happiness.n.02 contentment.n.01 satisfaction.n.01 gloat.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electronic_device.n.01 tube.n.02 triode.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 sheet.n.06 board.n.03 wallboard.n.01 beaver_board.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 bird_family.n.01 hemiprocnidae.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 provision.n.02 subvention.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 virgo.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 virgo.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 nutriment.n.01 dish.n.02 bubble_and_squeak.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 indian_lettuce.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 deceiver.n.01 imposter.n.01 ringer.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 deceiver.n.01 imposter.n.01 ringer.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 microorganism.n.01 bacteria.n.01 eubacteria.n.01 enteric_bacteria.n.01 shigella.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 microorganism.n.01 moneran.n.01 eubacteria.n.01 enteric_bacteria.n.01 shigella.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 institution.n.01 educational_institution.n.01 school.n.01 secondary_school.n.01 preparatory_school.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 branchiopoda.n.01
+entity.n.01 abstraction.n.06 communication.n.02 written_communication.n.01 writing.n.02 document.n.01 legal_document.n.01 bill.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 disposal.n.03 giving.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 tarweed.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 nonaccomplishment.n.01 mistake.n.01 revoke.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 mammal_genus.n.01 euderma.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 sprout.n.01 shoot.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 feeling.n.01 emotion.n.01 fear.n.01 horror.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 amphibian_genus.n.01 cryptobranchus.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 communicator.n.01 articulator.n.01 speaker.n.01 caller.n.07
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 communicator.n.01 articulator.n.01 speaker.n.01 caller.n.07
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_integrity.n.01 separation.n.09 detachment.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 oscine.n.01 warbler.n.02 new_world_warbler.n.01 blackburn.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 box.n.01 chest.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 pteridophyte.n.01 fern.n.01 hay-scented.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 life.n.08
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 life.n.08
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 information.n.01 database.n.01 list.n.01 roll.n.02 rota.n.02
+entity.n.01 abstraction.n.06 attribute.n.02 inheritance.n.04 upbringing.n.01 education.n.05
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 goosefoot.n.01 lamb's-quarters.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 visual_property.n.01 color.n.01 chromatic_color.n.01 red.n.01 crimson.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.03 stroke.n.12 blow.n.01 knock.n.05
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 utensil.n.01 kitchen_utensil.n.01 cooking_utensil.n.01 pot.n.01 coffeepot.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 vessel.n.03 pot.n.01 coffeepot.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 astacus.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 diversion.n.01 gambling.n.01 game_of_chance.n.01 lottery.n.02 lucky_dip.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 wrongdoing.n.02 transgression.n.01 vice.n.02 gambling.n.01 game_of_chance.n.01 lottery.n.02 lucky_dip.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 game.n.01 game_of_chance.n.01 lottery.n.02 lucky_dip.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 electrical_device.n.01 circuit.n.01 computer_circuit.n.01 interface.n.04
+entity.n.01 physical_entity.n.01 object.n.01 part.n.02 component.n.03 heating_element.n.01 bar.n.14
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 adult.n.01 oldster.n.01 dodderer.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 adult.n.01 oldster.n.01 dodderer.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 relative.n.01 ancestor.n.01 progenitor.n.01 genitor.n.01 parent.n.01 mother.n.01 quintipara.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 relative.n.01 ancestor.n.01 progenitor.n.01 genitor.n.01 parent.n.01 mother.n.01 quintipara.n.01
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 statement.n.01 mathematical_statement.n.01 formula.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 structure.n.04 passage.n.07 orifice.n.01 rima.n.01 pudendal_cleft.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 shrub.n.01 subshrub.n.01 milkwort.n.01 seneca_snakeroot.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 rue.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 partition.n.01 screen.n.09
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 container.n.01 box.n.01 coffin.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 communication.n.01 examination.n.02 quiz.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 speech.n.02 discussion.n.02 negotiation.n.01 bargaining.n.01 haggle.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 kingdom.n.05 fungi.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 poisonous_plant.n.01 aconite.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 corner.n.11
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_magnitude.n.01 decrease.n.04 shortening.n.02 cut.n.18 trim.n.04 pruning.n.02
+entity.n.01 abstraction.n.06 measure.n.02 fundamental_quantity.n.01 time_period.n.01 time_of_life.n.01 childhood.n.01 girlhood.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 occupation.n.01 position.n.06 throne.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 structure.n.01 supporting_structure.n.01 framework.n.03 window.n.01 display_window.n.01
+entity.n.01 abstraction.n.06 relation.n.01 linguistic_relation.n.01 semantic_relation.n.01 meronymy.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 labor.n.02 effort.n.02 overexertion.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 dicot_family.n.01 rosid_dicot_family.n.01 balsaminaceae.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antipyretic.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antipyretic.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 magnoliid_dicot_genus.n.01 genus_sassafras.n.01
+entity.n.01 physical_entity.n.01 process.n.06 phenomenon.n.01 natural_phenomenon.n.01 physical_phenomenon.n.01 conduction.n.01 electrical_conduction.n.01 discharge.n.05 corona_discharge.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 physical_condition.n.01 abnormality.n.01 macrocephaly.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 monocot_genus.n.01 eriocaulon.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 fugitive.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 fugitive.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 root.n.01 calamus.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 chameleon.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 chameleon.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 change_of_state.n.01 cooking.n.01 toasting.n.01
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 statement.n.01 comment.n.02 note.n.07 postscript.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 touch.n.05 kiss.n.01 smack.n.05
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 aquatic_vertebrate.n.01 fish.n.01 bony_fish.n.01 teleost_fish.n.01 spiny-finned_fish.n.01 percoid_fish.n.01 butterfish.n.02 dollarfish.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 agent.n.03 drug.n.01 medicine.n.02 antibacterial.n.01 tetracycline.n.01 demeclocycline_hydrochloride.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 agent.n.03 drug.n.01 medicine.n.02 antibacterial.n.01 tetracycline.n.01 demeclocycline_hydrochloride.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 unit.n.05 molecule.n.01 macromolecule.n.01 lipid.n.01 wax.n.01 candelilla_wax.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 macromolecule.n.01 lipid.n.01 wax.n.01 candelilla_wax.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 macromolecule.n.01 lipid.n.01 wax.n.01 candelilla_wax.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 external_body_part.n.01 extremity.n.05 hand.n.01 left.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 ricinus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 passerine.n.01 tyrannid.n.01 new_world_flycatcher.n.01 kingbird.n.01 cassin's_kingbird.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 expert.n.01 investigator.n.02 examiner.n.02 checker.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 expert.n.01 investigator.n.02 examiner.n.02 checker.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 activator.n.01 catalyst.n.01 enzyme.n.01 protease.n.01 angiotensin_converting_enzyme.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 activator.n.01 catalyst.n.01 enzyme.n.01 protease.n.01 angiotensin_converting_enzyme.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 unit.n.05 molecule.n.01 macromolecule.n.01 protein.n.01 enzyme.n.01 protease.n.01 angiotensin_converting_enzyme.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 macromolecule.n.01 protein.n.01 enzyme.n.01 protease.n.01 angiotensin_converting_enzyme.n.01
+entity.n.01 abstraction.n.06 relation.n.01 part.n.01 substance.n.01 material.n.01 chemical.n.01 compound.n.02 organic_compound.n.01 macromolecule.n.01 protein.n.01 enzyme.n.01 protease.n.01 angiotensin_converting_enzyme.n.01
+entity.n.01 abstraction.n.06 communication.n.02 language.n.01 natural_language.n.01 indo-european.n.02 tocharian.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 duty.n.02 assignment.n.01 mission.n.03
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 monocot_family.n.01 zosteraceae.n.01
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 statement.n.01 mathematical_statement.n.01 equation.n.01 differential_equation.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 purity.n.01
+entity.n.01 physical_entity.n.01 thing.n.12 part.n.03 body_part.n.01 joint.n.01 synovial_joint.n.01 knuckle.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 weed.n.01 corn_cockle.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 chordate.n.01 vertebrate.n.01 bird.n.01 aquatic_bird.n.01 waterfowl.n.01 anseriform_bird.n.01 duck.n.01 sea_duck.n.01 merganser.n.01 goosander.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 spermatophyte.n.01 angiosperm.n.01 flower.n.01 gentian.n.01 fringed_gentian.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 thunbergia.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 knowledge_domain.n.01 discipline.n.01 science.n.01 nutrition.n.03
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 cake.n.03 pancake.n.01 crape.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 lepidopterous_insect.n.01 butterfly.n.01 nymphalid.n.01 peacock.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 preserver.n.03 defender.n.01 lawman.n.01 warder.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 preserver.n.03 defender.n.01 lawman.n.01 warder.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 action.n.01 change.n.03 motion.n.06 maneuver.n.03 obstruction.n.05 blocking.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 objection.n.02 demur.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 market.n.01 oligopoly.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 natural_object.n.01 plant_part.n.01 plant_organ.n.01 reproductive_structure.n.01 fruit.n.01 edible_fruit.n.01 custard_apple.n.02 sweetsop.n.02
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 produce.n.01 edible_fruit.n.01 custard_apple.n.02 sweetsop.n.02
+entity.n.01 abstraction.n.06 communication.n.02 message.n.02 statement.n.01 declaration.n.01 assertion.n.01 claim.n.01 dibs.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 protoctist_family.n.01 laminariaceae.n.01
+entity.n.01 abstraction.n.06 relation.n.01 mathematical_relation.n.01 function.n.01 exponential.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 arthropod_genus.n.01 leptoglossus.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 device.n.01 instrument.n.01 weapon.n.01 gun.n.01 minute_gun.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 animal.n.01 invertebrate.n.01 arthropod.n.01 insect.n.01 heteropterous_insect.n.01 water_bug.n.01 water_strider.n.01 common_pond-skater.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 class.n.07 lycopsida.n.01
+entity.n.01 abstraction.n.06 communication.n.02 auditory_communication.n.01 music.n.01 polyphony.n.01 counterpoint.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 mammal_family.n.01 balaenopteridae.n.01
+entity.n.01 abstraction.n.06 group.n.01 social_group.n.01 organization.n.01 unit.n.03 political_unit.n.01 state.n.04 dominion.n.03
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 instrumentality.n.03 implement.n.01 tool.n.01 cutting_implement.n.01 cutter.n.06 edge_tool.n.01 knife.n.01 cleaver.n.01
+entity.n.01 physical_entity.n.01 process.n.06 phenomenon.n.01 consequence.n.01 repercussion.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 combatant.n.01 gladiator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 combatant.n.01 gladiator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 herb_mercury.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 capitalist.n.02 businessperson.n.01 merchant.n.01 trader.n.01 mercer.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 capitalist.n.02 businessperson.n.01 merchant.n.01 trader.n.01 mercer.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 native.n.01 levantine.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 native.n.01 levantine.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 deceiver.n.01 impersonator.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 deceiver.n.01 impersonator.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 fish_genus.n.01 lepidocybium.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 bulbous_plant.n.01 liliaceous_plant.n.01 trillium.n.01 red_trillium.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 pteridophyte.n.01 fern.n.01 adder's_tongue.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 bird_genus.n.01 trichoglossus.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 caryophylloid_dicot_genus.n.01 hylocereus.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 property.n.02 temporal_property.n.01 temporal_arrangement.n.01 timing.n.01 presentness.n.01 currentness.n.01 modernity.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 order.n.12 animal_order.n.01 blennioidea.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 usurper.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 bad_person.n.01 wrongdoer.n.01 usurper.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 group_action.n.01 social_control.n.01 enforcement.n.01 coercion.n.01 terror.n.04 terrorism.n.01 cyber-terrorism.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 group_action.n.01 social_control.n.01 enforcement.n.01 coercion.n.01 terror.n.04 terrorism.n.01 cyber-terrorism.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 procedure.n.01 medical_procedure.n.01 operation.n.06 ostomy.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 herb.n.01 viola.n.01 wild_pansy.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 native.n.01 russian.n.01 ingrian.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 native.n.01 russian.n.01 ingrian.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 worker.n.01 skilled_worker.n.01 craftsman.n.03 woodworker.n.01 woodcarver.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 worker.n.01 skilled_worker.n.01 craftsman.n.03 woodworker.n.01 woodcarver.n.01
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 right-hander.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 right-hander.n.02
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 plant.n.02 vascular_plant.n.01 woody_plant.n.01 tree.n.01 gum_tree.n.01 liquidambar.n.02 sweet_gum.n.03
+entity.n.01 physical_entity.n.01 matter.n.03 solid.n.01 food.n.02 baked_goods.n.01 bread.n.01 barmbrack.n.01
+entity.n.01 physical_entity.n.01 matter.n.03 substance.n.07 food.n.01 foodstuff.n.02 starches.n.01 bread.n.01 barmbrack.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 address.n.03 public_speaking.n.01 debate.n.02
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 genus_dichondra.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 speech_act.n.01 disagreement.n.03 discord.n.02
+entity.n.01 physical_entity.n.01 causal_agent.n.01 person.n.01 shaker.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 living_thing.n.01 organism.n.01 person.n.01 shaker.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 commodity.n.01 consumer_goods.n.01 clothing.n.01 work-clothing.n.01
+entity.n.01 physical_entity.n.01 object.n.01 whole.n.02 artifact.n.01 covering.n.02 clothing.n.01 work-clothing.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 cognition.n.01 content.n.05 representation.n.01 memory.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 state.n.02 condition.n.01 psychological_state.n.01 cognitive_state.n.01 unconsciousness.n.01 coma.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 protoctist_family.n.01 characeae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 rosid_dicot_genus.n.01 lovoa.n.01
+entity.n.01 abstraction.n.06 psychological_feature.n.01 event.n.01 act.n.02 activity.n.01 work.n.01 investigation.n.02 examination.n.01 inspection.n.01 check.n.06
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 genus.n.02 dicot_genus.n.01 asterid_dicot_genus.n.01 thymus.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 fungus_family.n.01 thelephoraceae.n.01
+entity.n.01 abstraction.n.06 group.n.01 biological_group.n.01 taxonomic_group.n.01 family.n.06 bird_family.n.01 rheidae.n.01
+entity.n.01 abstraction.n.06 group.n.01 collection.n.01 vegetation.n.01 groundcover.n.01 pearlwort.n.01
+entity.n.01 abstraction.n.06 attribute.n.02 quality.n.01 morality.n.01 good.n.02 kindness.n.01 consideration.n.04 tact.n.01 delicacy.n.06
