@@ -1,0 +1,2 @@
+python main.py --train data/split/wn18rr_adjust/neg/train_inst_path_18rr_12r.r --dev data/split/wn18rr_adjust/neg/valid_inst_path_18rr_12r.r --query data/inst_wn18_path_len2 --neg --gamma 0.7 --lr 0.001 -e 80 --valid --cuda -s --hidden 512
+python main.py --train data/split/wn18rr_adjust/neg/train_inst_path_18rr_12r.r --dev data/split/wn18rr_adjust/neg/valid_inst_path_18rr_12r.r --query data/inst_wn18_path_len2 --neg --gamma 1.0 --lr 0.001 -e 80 --valid --cuda -s --hidden 512

@@ -1,0 +1,7 @@
+output/
+*.log
+*.vec
+__pycache__/
+.idea/
+test_output/
+checkpoint/
