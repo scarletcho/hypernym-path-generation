@@ -1,1 +1,1 @@
-# Hypernym prediction by path generation
+# Hypernym prediction by path generation in WordNet
