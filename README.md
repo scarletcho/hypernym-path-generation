@@ -1,1 +1,1 @@
-# wn18rr_hypernym_prediction
+# Hypernym prediction by path generation
