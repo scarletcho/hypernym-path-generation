@@ -40,9 +40,6 @@ To train/dev on noun/instance:
 replace all 'verb' in the command with 'noun' or 'inst'.
 
 
-##
-Sometimes Maveric2 will report a CUDA Unknown Error with pytorch. In that case, please switch to another compute node.
-
 
 ## Output
 Ouput: Text files with predicted path for each instance in valid_raw.path where each line of valid_raw.path corresponds to a path of a word in the verb_wn18_path dataset for path query.
