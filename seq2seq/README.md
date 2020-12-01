@@ -3,7 +3,7 @@ Word-level seq2seq model in keras
 
 ## Download the synset embeddings
 
-These are located at https://github.com/scarletcho/hypernym-path-generation/releases/tag/v1.0  Move them to the `embs/` directory to use them as in the examples below.
+These are located at https://github.com/scarletcho/hypernym-path-generation/releases/tag/v1.0 (file `ft-embs-all-lower.vec`). Move it to the `embs/` directory to use the synset embeddings as in the examples below.
 
 ## Hyperparameters
 
