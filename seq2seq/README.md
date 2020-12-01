@@ -1,5 +1,7 @@
 # keras_seq2seq
-Word-level seq2seq model in keras
+Word-level seq2seq model in Keras used for hypernym prediction (the hypo2path, hypo2path rev, and hypo2hyper experiments in our paper).
+
+Dependencies are listed in `requirements.txt`.
 
 ## Download the synset embeddings
 
